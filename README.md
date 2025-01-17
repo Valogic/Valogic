@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Valogic
+- 👀 I’m interested in Java and Linux
+- 🌱 I’m currently learning Java
