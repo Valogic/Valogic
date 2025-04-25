@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Valogic
+- 👋 Hi, I’m Valeriy - @Valogic
 - 🌱 I’m currently learning JavaScript
