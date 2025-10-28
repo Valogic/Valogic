@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Valeriy - @Valogic
 - 🌱 I’m currently learning JavaScript
 
-
-![Valogic's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Valogic&theme=tokyonight)
+![Langs in public repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Valogic&layout=compact&theme=tokyonight)
